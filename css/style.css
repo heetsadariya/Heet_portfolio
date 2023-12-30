@@ -312,6 +312,11 @@ form .btn-2 {
 .copyright i.fa-solid {
   color: #ff004f;
 }
+#msg {
+  color: #61b752;
+  margin-top: -30px;
+  display: block;
+}
 /* --------------------------------css for small screen ---------------- */
 nav .fa-solid {
   display: none;
